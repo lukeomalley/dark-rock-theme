@@ -1,0 +1,21 @@
+{
+  "name": "dark-rock",
+  "displayName": "Dark Rock",
+  "description": "Deep dark theme with a hint of gruvbox for a /comfy/ vs code experience",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Rock",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Rock-color-theme.json"
+      }
+    ]
+  }
+}
