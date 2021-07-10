@@ -1,10 +1,24 @@
 {
-  "name": "dark-rock",
-  "displayName": "Dark Rock",
+  "name": "dark-rock-theme",
+  "displayName": "Dark Rock Theme",
   "description": "Deep dark theme with a hint of gruvbox for a /comfy/ vs code experience",
   "version": "1.0.0",
+  "homepage": "https://github.com/lukeomalley/dark-rock-theme",
+  "bugs": {
+    "url": "https://github.com/lukeomalley/dark-rock-theme",
+    "email": "lukeomalley@pm.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukeomalley/dark-rock-theme"
+  },
   "engines": {
     "vscode": "^1.58.0"
+  },
+  "icon": "images/dark-rock-icon.png",
+  "galleryBanner": {
+    "color": "#16191e",
+    "theme": "dark"
   },
   "categories": [
     "Themes"
