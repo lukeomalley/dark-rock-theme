@@ -1,3 +1,3 @@
-<p align="center"><img src="./images/dark-rock-header.png"></p>
+<p align="center"><img src="./images/dark-rock-header-transparent.png"></p>
 
-Deep dark theme with a hint of gruvbox for a /comfy/ vs code experience
+<p align="center">Deep dark theme with a hint of gruvbox for a /comfy/ vs code experience</p>
