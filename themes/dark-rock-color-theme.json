@@ -1,11 +1,11 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Dark Rock",
   "type": "dark",
+  "name": "Dark Rock",
   "colors": {
     "activityBar.activeBorder": "#928374",
     "activityBar.activeFocusBorder": "#928374",
-    "activityBar.background": "#292828",
+    "activityBar.background": "#16191e",
     "activityBar.border": "#292828",
     "activityBar.foreground": "#a89984",
     "activityBar.inactiveForeground": "#7c6f64",
