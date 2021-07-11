@@ -3,6 +3,8 @@
   "displayName": "Dark Rock Theme",
   "description": "Deep dark theme with a hint of gruvbox for a /comfy/ vs code experience",
   "version": "1.0.0",
+  "publisher": "lukeomalley95",
+  "author": "Luke OMalley",
   "homepage": "https://github.com/lukeomalley/dark-rock-theme",
   "bugs": {
     "url": "https://github.com/lukeomalley/dark-rock-theme",
