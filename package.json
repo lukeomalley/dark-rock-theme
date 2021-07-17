@@ -30,7 +30,7 @@
       {
         "label": "Dark Rock",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Rock-color-theme.json"
+        "path": "./themes/dark-rock-color-theme.json"
       }
     ]
   }
