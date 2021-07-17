@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "dark-rock" extension will be documented in this file.
+## [1.0.2]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Fixed critial issue referencing wrong theme file which prevented users from setting the theme
