@@ -8,6 +8,8 @@
 <img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/lukeomalley.dark-rock-theme">
 </div>
 
+<p></p>
+
 <p align="center"><img src="./images/samples/dark-rock-typescript.png"></p>
 
 <p align="center"><img src="./images/samples/dark-rock-go.png"></p>
