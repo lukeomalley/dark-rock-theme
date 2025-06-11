@@ -2,7 +2,7 @@
   "name": "dark-rock-theme",
   "displayName": "Dark Rock Theme",
   "description": "Deep dark theme with a hint of gruvbox for a /comfy/ vs code experience",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "publisher": "lukeomalley",
   "author": "Luke OMalley",
   "homepage": "https://github.com/lukeomalley/dark-rock-theme",
@@ -31,6 +31,11 @@
         "label": "Dark Rock",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-rock-color-theme.json"
+      },
+      {
+        "label": "Night Rock",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-rock-color-theme.json"
       }
     ]
   }
