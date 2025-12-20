@@ -27,9 +27,9 @@
     "Themes"
   ],
   "scripts": {
-    "package": "vsce package",
-    "publish:vscode": "vsce publish",
-    "publish:ovsx": "ovsx publish -p $OPEN_VSX_ACCESS_TOKEN",
+    "package": "npx @vscode/vsce package",
+    "publish:vscode": "npx @vscode/vsce publish",
+    "publish:ovsx": "npx ovsx publish -p $OPEN_VSX_ACCESS_TOKEN",
     "publish:all": "npm run publish:vscode && npm run publish:ovsx"
   },
   "contributes": {

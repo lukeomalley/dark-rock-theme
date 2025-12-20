@@ -1,4 +1,12 @@
+# Development files
 .vscode/**
 .vscode-test/**
 .gitignore
+.envrc
 vsc-extension-quickstart.md
+
+# Images only used for README/marketplace display (not needed in installed extension)
+images/samples/**
+images/dark-rock-header-transparent.png
+
+# Keep images/dark-rock-icon.png - it's referenced in package.json for the marketplace
