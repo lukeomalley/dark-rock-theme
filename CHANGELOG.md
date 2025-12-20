@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.2.0]
+
+- Darkened background colors for a more cohesive look (#4)
+- Improved autocomplete widget contrast with darker background
+- Darkened peek view backgrounds for better visual consistency
+
 ## [1.1.0]
 
 - Added new Night Rock theme variant
