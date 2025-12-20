@@ -43,6 +43,11 @@
         "label": "Night Rock",
         "uiTheme": "vs-dark",
         "path": "./themes/night-rock-color-theme.json"
+      },
+      {
+        "label": "Light Rock",
+        "uiTheme": "vs",
+        "path": "./themes/light-rock-color-theme.json"
       }
     ]
   }
