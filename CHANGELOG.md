@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.1]
+
+- Reduced extension package size by ~1.1MB by excluding README images from bundle
+
 ## [1.2.0]
 
 - Darkened background colors for a more cohesive look (#4)
