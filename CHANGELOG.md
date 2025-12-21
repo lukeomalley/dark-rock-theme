@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/lukeomalley/dark-rock-theme/compare/v1.2.1...v1.3.0) (2025-12-21)
+
+
+### Features
+
+* **theme:** add Light Rock light theme variant ([f52066f](https://github.com/lukeomalley/dark-rock-theme/commit/f52066f937c725bd5c9c6e99c540a81098c2aeee))
+
 ## [1.2.1]
 
 - Reduced extension package size by ~1.1MB by excluding README images from bundle
