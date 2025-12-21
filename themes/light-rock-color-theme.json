@@ -2050,6 +2050,48 @@
       }
     },
     {
+      "scope": "storage.type.contract, storage.type.interface, storage.type.library, storage.type.struct, storage.type.enum",
+      "settings": {
+        "foreground": "#9D0006"
+      }
+    },
+    {
+      "scope": "entity.name.type.contract, entity.name.type.interface, entity.name.type.library, entity.name.type.struct, entity.name.type.enum, entity.name.type.event, entity.name.type.error",
+      "settings": {
+        "foreground": "#076678"
+      }
+    },
+    {
+      "scope": "storage.type.modifier.extendedscope",
+      "settings": {
+        "foreground": "#8F3F71"
+      }
+    },
+    {
+      "scope": "storage.type.function, entity.name.function",
+      "settings": {
+        "foreground": "#5C7A92"
+      }
+    },
+    {
+      "scope": "storage.type.modifier.access, storage.type.modifier.payable, storage.type.modifier.readonly",
+      "settings": {
+        "foreground": "#8B5C42"
+      }
+    },
+    {
+      "scope": "support.type.primitive",
+      "settings": {
+        "foreground": "#8B5A2D"
+      }
+    },
+    {
+      "scope": "keyword.control.import, keyword.control.pragma, keyword.control.using, keyword.control.flow",
+      "settings": {
+        "foreground": "#427B58"
+      }
+    },
+    {
       "scope": "token.info-token",
       "settings": {
         "foreground": "#076678"

@@ -2504,6 +2504,48 @@
       }
     },
     {
+      "scope": "storage.type.contract, storage.type.interface, storage.type.library, storage.type.struct, storage.type.enum",
+      "settings": {
+        "foreground": "#EA6962"
+      }
+    },
+    {
+      "scope": "entity.name.type.contract, entity.name.type.interface, entity.name.type.library, entity.name.type.struct, entity.name.type.enum, entity.name.type.event, entity.name.type.error",
+      "settings": {
+        "foreground": "#7DAEA3"
+      }
+    },
+    {
+      "scope": "storage.type.modifier.extendedscope",
+      "settings": {
+        "foreground": "#D3869B"
+      }
+    },
+    {
+      "scope": "storage.type.function, entity.name.function",
+      "settings": {
+        "foreground": "#A9B665"
+      }
+    },
+    {
+      "scope": "storage.type.modifier.access, storage.type.modifier.payable, storage.type.modifier.readonly",
+      "settings": {
+        "foreground": "#E78A4E"
+      }
+    },
+    {
+      "scope": "support.type.primitive",
+      "settings": {
+        "foreground": "#D8A657"
+      }
+    },
+    {
+      "scope": "keyword.control.import, keyword.control.pragma, keyword.control.using, keyword.control.flow",
+      "settings": {
+        "foreground": "#89B482"
+      }
+    },
+    {
       "scope": "token.info-token",
       "settings": {
         "foreground": "#6796E6"
