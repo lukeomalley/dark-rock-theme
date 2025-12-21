@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/lukeomalley/dark-rock-theme/compare/v1.3.0...v1.3.1) (2025-12-21)
+
+
+### Bug Fixes
+
+* resolve lint warnings across all theme files ([e0d36ed](https://github.com/lukeomalley/dark-rock-theme/commit/e0d36ed3cb31a910c25d121ee25e6c695cdede5b))
+
 ## [1.3.0](https://github.com/lukeomalley/dark-rock-theme/compare/v1.2.1...v1.3.0) (2025-12-21)
 
 
