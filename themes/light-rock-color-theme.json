@@ -2050,19 +2050,19 @@
       }
     },
     {
-      "scope": "storage.type.contract, storage.type.interface, storage.type.library, storage.type.struct, storage.type.enum",
+      "scope": "source.solidity storage.type.contract, source.solidity storage.type.interface, source.solidity storage.type.library, source.solidity storage.type.struct, source.solidity storage.type.enum",
       "settings": {
         "foreground": "#9D0006"
       }
     },
     {
-      "scope": "entity.name.type.contract, entity.name.type.interface, entity.name.type.library, entity.name.type.struct, entity.name.type.enum, entity.name.type.event, entity.name.type.error",
+      "scope": "source.solidity entity.name.type.contract, source.solidity entity.name.type.interface, source.solidity entity.name.type.library, source.solidity entity.name.type.struct, source.solidity entity.name.type.enum, source.solidity entity.name.type.event, source.solidity entity.name.type.error",
       "settings": {
         "foreground": "#076678"
       }
     },
     {
-      "scope": "storage.type.modifier.extendedscope",
+      "scope": "source.solidity storage.type.modifier.extendedscope",
       "settings": {
         "foreground": "#8F3F71"
       }
@@ -2074,7 +2074,7 @@
       }
     },
     {
-      "scope": "storage.type.modifier.access, storage.type.modifier.payable, storage.type.modifier.readonly",
+      "scope": "source.solidity storage.type.modifier.access, source.solidity storage.type.modifier.payable, source.solidity storage.type.modifier.readonly",
       "settings": {
         "foreground": "#8B5C42"
       }
