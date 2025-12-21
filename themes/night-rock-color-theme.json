@@ -2504,6 +2504,48 @@
       }
     },
     {
+      "scope": "source.solidity storage.type.contract, source.solidity storage.type.interface, source.solidity storage.type.library, source.solidity storage.type.struct, source.solidity storage.type.enum",
+      "settings": {
+        "foreground": "#EA6962"
+      }
+    },
+    {
+      "scope": "source.solidity entity.name.type.contract, source.solidity entity.name.type.interface, source.solidity entity.name.type.library, source.solidity entity.name.type.struct, source.solidity entity.name.type.enum, source.solidity entity.name.type.event, source.solidity entity.name.type.error",
+      "settings": {
+        "foreground": "#7DAEA3"
+      }
+    },
+    {
+      "scope": "source.solidity storage.type.modifier.extendedscope",
+      "settings": {
+        "foreground": "#D3869B"
+      }
+    },
+    {
+      "scope": "source.solidity storage.type.function, source.solidity entity.name.function",
+      "settings": {
+        "foreground": "#A9B665"
+      }
+    },
+    {
+      "scope": "source.solidity storage.type.modifier.access, source.solidity storage.type.modifier.payable, source.solidity storage.type.modifier.readonly",
+      "settings": {
+        "foreground": "#E78A4E"
+      }
+    },
+    {
+      "scope": "source.solidity support.type.primitive",
+      "settings": {
+        "foreground": "#D8A657"
+      }
+    },
+    {
+      "scope": "source.solidity keyword.control.import, source.solidity keyword.control.pragma, source.solidity keyword.control.using, source.solidity keyword.control.flow",
+      "settings": {
+        "foreground": "#89B482"
+      }
+    },
+    {
       "scope": "token.info-token",
       "settings": {
         "foreground": "#6796E6"
