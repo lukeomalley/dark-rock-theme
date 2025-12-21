@@ -2241,7 +2241,7 @@
       }
     },
     {
-      "scope": "storage.type.function, entity.name.function",
+      "scope": "source.solidity storage.type.function, source.solidity entity.name.function",
       "settings": {
         "foreground": "#A9B665"
       }
@@ -2253,13 +2253,13 @@
       }
     },
     {
-      "scope": "support.type.primitive",
+      "scope": "source.solidity support.type.primitive",
       "settings": {
         "foreground": "#D8A657"
       }
     },
     {
-      "scope": "keyword.control.import, keyword.control.pragma, keyword.control.using, keyword.control.flow",
+      "scope": "source.solidity keyword.control.import, source.solidity keyword.control.pragma, source.solidity keyword.control.using, source.solidity keyword.control.flow",
       "settings": {
         "foreground": "#89B482"
       }

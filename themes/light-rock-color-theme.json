@@ -2068,7 +2068,7 @@
       }
     },
     {
-      "scope": "storage.type.function, entity.name.function",
+      "scope": "source.solidity storage.type.function, source.solidity entity.name.function",
       "settings": {
         "foreground": "#5C7A92"
       }
@@ -2080,13 +2080,13 @@
       }
     },
     {
-      "scope": "support.type.primitive",
+      "scope": "source.solidity support.type.primitive",
       "settings": {
         "foreground": "#8B5A2D"
       }
     },
     {
-      "scope": "keyword.control.import, keyword.control.pragma, keyword.control.using, keyword.control.flow",
+      "scope": "source.solidity keyword.control.import, source.solidity keyword.control.pragma, source.solidity keyword.control.using, source.solidity keyword.control.flow",
       "settings": {
         "foreground": "#427B58"
       }
