@@ -2,6 +2,10 @@
 
 <p align="center">Deep dark theme with a hint of gruvbox for a /comfy/ vs code experience</p>
 
+<p align="center">
+  <a href="https://vscodethemes.com/e/lukeomalley.dark-rock-theme/dark-rock">🎨 Preview the theme</a>
+</p>
+
 <div align="center">
 
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=lukeomalley.dark-rock-theme)
