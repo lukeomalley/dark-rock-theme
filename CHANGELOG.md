@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.4.0](https://github.com/lukeomalley/dark-rock-theme/compare/v1.3.1...v1.4.0) (2025-12-21)
+
+
+### Features
+
+* add Solidity-specific syntax highlighting rules ([2db17fe](https://github.com/lukeomalley/dark-rock-theme/commit/2db17fe5827ab672a2315f3acd36c3c56f32af73)), closes [#2](https://github.com/lukeomalley/dark-rock-theme/issues/2)
+
+
+### Bug Fixes
+
+* scope Solidity syntax rules to prevent affecting other languages ([2594d44](https://github.com/lukeomalley/dark-rock-theme/commit/2594d442457a5a385d80803f01fba2eadd170ad1))
+* scope Solidity syntax rules to prevent global application ([2ec3879](https://github.com/lukeomalley/dark-rock-theme/commit/2ec387957e83a06e2fb4162a185ac899a159350c))
+
 ## [1.3.1](https://github.com/lukeomalley/dark-rock-theme/compare/v1.3.0...v1.3.1) (2025-12-21)
 
 
