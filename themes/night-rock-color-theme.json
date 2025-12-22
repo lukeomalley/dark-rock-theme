@@ -282,7 +282,7 @@
     "sideBarSectionHeader.foreground": "#a89984",
     "sideBarTitle.foreground": "#a89984",
     "statusBar.background": "#08080d",
-    "statusBar.border": "#08080d",
+    "statusBar.border": "#2a2a30",
     "statusBar.debuggingBackground": "#1a1a20",
     "statusBar.debuggingForeground": "#e78a4e",
     "statusBar.foreground": "#a89984",
