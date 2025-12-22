@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/lukeomalley/dark-rock-theme/compare/v1.4.0...v1.4.1) (2025-12-22)
+
+
+### Bug Fixes
+
+* **night-rock:** add visible border to status bar ([8cc1577](https://github.com/lukeomalley/dark-rock-theme/commit/8cc1577e5a5a163870bc467a8d88d00133ce4682))
+
 ## [1.4.0](https://github.com/lukeomalley/dark-rock-theme/compare/v1.3.1...v1.4.0) (2025-12-21)
 
 ### Features
