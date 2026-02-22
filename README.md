@@ -1,9 +1,9 @@
 <p align="center"><img src="./images/dark-rock-header-transparent.png"></p>
 
-<p align="center">Deep dark theme with a hint of gruvbox for a /comfy/ vs code experience</p>
+<p align="center">Deep dark theme with a hint of gruvbox for a /comfy/ experience</p>
 
 <p align="center">
-  <a href="https://vscodethemes.com/e/lukeomalley.dark-rock-theme/dark-rock">🎨 Preview the theme</a>
+  <a href="https://vscodethemes.com/e/lukeomalley.dark-rock-theme/dark-rock">Preview the VS Code theme</a>
 </p>
 
 <div align="center">
@@ -18,7 +18,58 @@
 
 </div>
 
-<p></p>
+## Variants
+
+| Theme | Background | Description |
+|-------|-----------|-------------|
+| Dark Rock | `#1a1a20` | The original. Deep dark with warm gruvbox tones. |
+| Night Rock | `#08080d` | Even darker with a subtle blue undertone. |
+| Light Rock | `#f2e5bc` | Light variant for the daylight hours. |
+
+## VS Code
+
+Install from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=lukeomalley.dark-rock-theme) or [Open VSX](https://open-vsx.org/extension/lukeomalley/dark-rock-theme), then select **Dark Rock**, **Night Rock**, or **Light Rock** from the color theme picker.
+
+## OpenCode
+
+The Night Rock variant is available as a custom theme for [OpenCode](https://opencode.ai).
+
+### Install
+
+```bash
+mkdir -p ~/.config/opencode/themes
+curl -o ~/.config/opencode/themes/night-rock.json \
+  https://raw.githubusercontent.com/lukeomalley/dark-rock-theme/main/.opencode/themes/night-rock.json
+```
+
+### Activate
+
+Add `"theme": "night-rock"` to your OpenCode config (`~/.config/opencode/config.json` or `opencode.json`):
+
+```json
+{
+  "theme": "night-rock"
+}
+```
+
+Or use the `/theme` command inside OpenCode to select it.
+
+### Color palette
+
+| Role | Color | Hex |
+|------|-------|-----|
+| Background | ![#08080d](https://placehold.co/16x16/08080d/08080d) | `#08080d` |
+| Panel | ![#1a1a20](https://placehold.co/16x16/1a1a20/1a1a20) | `#1a1a20` |
+| Text | ![#d4be98](https://placehold.co/16x16/d4be98/d4be98) | `#d4be98` |
+| Keywords | ![#ea6962](https://placehold.co/16x16/ea6962/ea6962) | `#ea6962` |
+| Operators | ![#e78a4e](https://placehold.co/16x16/e78a4e/e78a4e) | `#e78a4e` |
+| Strings | ![#d8a657](https://placehold.co/16x16/d8a657/d8a657) | `#d8a657` |
+| Functions | ![#a9b665](https://placehold.co/16x16/a9b665/a9b665) | `#a9b665` |
+| Types | ![#7daea3](https://placehold.co/16x16/7daea3/7daea3) | `#7daea3` |
+| Numbers | ![#d3869b](https://placehold.co/16x16/d3869b/d3869b) | `#d3869b` |
+| Comments | ![#928374](https://placehold.co/16x16/928374/928374) | `#928374` |
+
+## Screenshots
 
 <p align="center"><img src="./images/samples/dark-rock-typescript.png"></p>
 

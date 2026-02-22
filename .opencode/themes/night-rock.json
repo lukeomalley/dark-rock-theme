@@ -18,8 +18,8 @@
     "blue": "#7daea3",
     "purple": "#d3869b",
     "tan": "#a89984",
-    "diffAddedBg": "#72966c40",
-    "diffRemovedBg": "#b8565140",
+    "diffAddedBg": "#72966c",
+    "diffRemovedBg": "#b85651",
     "diffContextBg": "#1a1a20"
   },
   "theme": {
