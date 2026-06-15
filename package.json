@@ -27,6 +27,7 @@
     "Themes"
   ],
   "scripts": {
+    "generate:nvim": "node scripts/generate-neovim-themes.mjs",
     "package": "npx @vscode/vsce package",
     "publish:vscode": "npx @vscode/vsce publish",
     "publish:ovsx": "npx ovsx publish -p $OPEN_VSX_ACCESS_TOKEN",

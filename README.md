@@ -30,6 +30,58 @@
 
 Install from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=lukeomalley.dark-rock-theme) or [Open VSX](https://open-vsx.org/extension/lukeomalley/dark-rock-theme), then select **Dark Rock**, **Night Rock**, or **Light Rock** from the color theme picker.
 
+## Neovim
+
+The three variants are available as Lua colorschemes in `nvim/`.
+
+### Install
+
+Clone this repo and add the `nvim` directory to your runtime path:
+
+```lua
+vim.opt.runtimepath:append("/path/to/dark-rock-theme/nvim")
+vim.cmd.colorscheme("dark-rock")
+```
+
+To use a transparent background, set the option before loading the colorscheme:
+
+```lua
+vim.g.dark_rock_transparent = true
+vim.cmd.colorscheme("night-rock")
+```
+
+You can also change the NvimTree folder color. Palette keys like `fgAlt`, `green`, `aqua`, `blue`, `yellow`, and `purple` work, as do hex colors:
+
+```lua
+vim.g.dark_rock_nvim_tree_folder_color = "fgAlt"
+vim.cmd.colorscheme("night-rock")
+```
+
+Or configure both directly:
+
+```lua
+require("dark-rock").setup("night-rock", {
+  transparent = true,
+  nvim_tree_folder_color = "fgAlt",
+})
+```
+
+Available colorschemes:
+
+```vim
+:colorscheme dark-rock
+:colorscheme night-rock
+:colorscheme light-rock
+```
+
+### Regenerate
+
+Neovim themes are generated from the VS Code theme JSON files:
+
+```bash
+npm run generate:nvim
+```
+
 ## OpenCode
 
 The Night Rock variant is available as a custom theme for [OpenCode](https://opencode.ai).
