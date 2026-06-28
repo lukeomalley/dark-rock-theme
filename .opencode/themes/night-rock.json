@@ -18,9 +18,11 @@
     "blue": "#7daea3",
     "purple": "#d3869b",
     "tan": "#a89984",
-    "diffAddedBg": "#72966c",
-    "diffRemovedBg": "#b85651",
-    "diffContextBg": "#1a1a20"
+    "diffAddedBg": "#26331f",
+    "diffRemovedBg": "#3a2222",
+    "diffAddedHighlightBg": "#3c5230",
+    "diffRemovedHighlightBg": "#5e3434",
+    "diffContextBg": "none"
   },
   "theme": {
     "primary": {
@@ -60,16 +62,16 @@
       "light": "fgMuted"
     },
     "background": {
-      "dark": "bg",
-      "light": "bg"
+      "dark": "none",
+      "light": "none"
     },
     "backgroundPanel": {
       "dark": "bgPanel",
       "light": "bgPanel"
     },
     "backgroundElement": {
-      "dark": "bgElement",
-      "light": "bgElement"
+      "dark": "none",
+      "light": "none"
     },
     "border": {
       "dark": "borderDefault",
@@ -114,6 +116,14 @@
     "diffRemovedBg": {
       "dark": "diffRemovedBg",
       "light": "diffRemovedBg"
+    },
+    "diffHighlightAddedBg": {
+      "dark": "diffAddedHighlightBg",
+      "light": "diffAddedHighlightBg"
+    },
+    "diffHighlightRemovedBg": {
+      "dark": "diffRemovedHighlightBg",
+      "light": "diffRemovedHighlightBg"
     },
     "diffContextBg": {
       "dark": "diffContextBg",
