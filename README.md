@@ -121,6 +121,22 @@ Or use the `/theme` command inside OpenCode to select it.
 | Numbers | ![#d3869b](https://placehold.co/16x16/d3869b/d3869b) | `#d3869b` |
 | Comments | ![#928374](https://placehold.co/16x16/928374/928374) | `#928374` |
 
+## Omarchy
+
+Night Rock is available as a native [Omarchy](https://omarchy.org/) theme. It
+styles the Omarchy shell, terminals, tmux, btop, browser accents, supported
+editors, and the desktop background from the same Night Rock palette.
+
+Install and activate it with:
+
+```bash
+omarchy theme install https://github.com/lukeomalley/omarchy-night-rock-theme.git
+```
+
+The canonical source files live in [`omarchy/night-rock`](./omarchy/night-rock).
+They are published at the root of the dedicated installable theme repository
+because Omarchy clones a theme repository directly into its user theme folder.
+
 ## Screenshots
 
 <p align="center"><img src="./images/samples/dark-rock-typescript.png"></p>
