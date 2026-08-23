@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.5.0](https://github.com/lukeomalley/dark-rock-theme/compare/v1.4.1...v1.5.0) (2026-08-23)
+
+
+### Features
+
+* add Neovim colorscheme support ([dd6e86f](https://github.com/lukeomalley/dark-rock-theme/commit/dd6e86f21e57c979d684585c7c5aae605e3f4263))
+* add Night Rock theme for Omarchy ([0092400](https://github.com/lukeomalley/dark-rock-theme/commit/0092400894139e4c7d6fd0cec4f83101613fb40f))
+* add OpenCode theme based on Night Rock ([a17b407](https://github.com/lukeomalley/dark-rock-theme/commit/a17b407853094fc92eb44f8b35088ed387401930))
+* **omarchy:** add public-domain painting wallpapers ([bcb146a](https://github.com/lukeomalley/dark-rock-theme/commit/bcb146a39fe93b0a92312113848e64a381556536))
+
+
+### Bug Fixes
+
+* **night-rock:** make diff readable and bg transparent ([c517707](https://github.com/lukeomalley/dark-rock-theme/commit/c51770701d0171ee39878c9576f2ca8a6b99ddd1))
+
 ## [1.4.1](https://github.com/lukeomalley/dark-rock-theme/compare/v1.4.0...v1.4.1) (2025-12-22)
 
 
