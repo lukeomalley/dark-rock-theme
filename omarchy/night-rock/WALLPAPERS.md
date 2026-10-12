@@ -6,7 +6,6 @@ the source entries.
 
 | File | Work | Artist | Source and rights |
 | --- | --- | --- | --- |
-| `02-woodland-road.jpg` | *Woodland Road* (ca. 1670) | Meyndert Hobbema | [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/436653), Open Access/Public Domain |
 | `04-pastoral-landscape.jpg` | *Pastoral Landscape* (1861) | Asher Brown Durand | [National Gallery of Art](https://www.nga.gov/artworks/72881-pastoral-landscape), Open Access/Public Domain |
 | `15-the-backwater.jpg` | *The Backwater* (exhibited 1903) | Charles William Wyllie | Copied from [Omarchy Gruvbox](https://github.com/omacom/omarchy/blob/quattro/themes/gruvbox/backgrounds/1-the-backwater.jpg); [artwork reference](https://www.wikiart.org/en/charles-william-wyllie/the-backwater), Public Domain |
 
