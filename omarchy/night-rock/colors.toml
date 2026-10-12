@@ -2,6 +2,9 @@ mode = "dark"
 
 # Night Rock's muted green provides a calm, readable desktop accent.
 accent = "#a9b665"
+
+# Use the palette's muted blue for focused window borders.
+hyprland_active_border = "rgb(7daea3)"
 selection = "#3a3534"
 muted = "#45403d"
 
