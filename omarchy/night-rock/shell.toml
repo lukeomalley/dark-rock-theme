@@ -19,7 +19,7 @@ panel-gap     = 10
 
 [bar]
 background = "#202027"
-background-alpha = 0.82
+background-alpha = 0.70
 text = "#eeeef0"
 active = "#a9b665"
 
