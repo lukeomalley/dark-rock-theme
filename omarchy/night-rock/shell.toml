@@ -1,0 +1,76 @@
+# Night Rock: frosted charcoal surfaces with soft text and warm accents.
+
+[controls]
+normal-border-width       = 0
+hover-cursor-border-width = 0
+focus-border-width        = 0
+selected-border-width     = 0
+hover-cursor-fill-alpha   = 0.10
+selected-fill-alpha       = 0.16
+pressed-fill-alpha        = 0.20
+
+[spacing]
+panel-padding = 16
+popup-padding = 12
+row-gap       = 6
+row-padding-x = 12
+control-gap   = 6
+panel-gap     = 10
+
+[bar]
+background = "#202027"
+background-alpha = 0.82
+text = "#eeeef0"
+active = "#a9b665"
+
+[popups]
+background = "#202027"
+background-alpha = 0.88
+text = "#eeeef0"
+border = "#ffffff"
+border-alpha = 0.12
+border-width = 1
+
+[tooltip]
+background = "#202027"
+background-alpha = 0.95
+text = "#eeeef0"
+border = "#ffffff"
+border-alpha = 0.12
+border-width = 1
+
+[notifications]
+background = "#202027"
+background-alpha = 0.88
+text = "#eeeef0"
+border = "#ffffff"
+border-alpha = 0.12
+border-width = 1
+
+[launcher]
+border-width          = 0
+selected-border-width = 0
+
+[menu]
+background = "#202027"
+background-alpha = 0.88
+text = "#eeeef0"
+border = "#ffffff"
+border-alpha = 0.12
+border-width = 1
+selected-background = "#a9b665"
+selected-background-alpha = 0.16
+selected-text = "#d4be98"
+selected-border-width = 0
+
+[polkit]
+border-width = 0
+
+[lock]
+border-width        = 0
+border-active-width = 0
+border-error-width  = 0
+
+[image-picker]
+selected-border-width   = 0
+unselected-border-width = 0
